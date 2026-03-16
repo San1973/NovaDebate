@@ -1,0 +1,5 @@
+{
+  "name": "NewsPrism",
+  "description": "An immersive live debate platform where three AI agents with distinct political inclinations analyze and debate news articles in real-time.",
+  "requestFramePermissions": ["microphone"]
+}
